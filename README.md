@@ -13,9 +13,7 @@ Main text! Main text! Main text! Main text! Main text!
 ## Conclusion
 Conclusion! Conclusion! Conclusion! Conclusion! Conclusion! Conclusion! 
 Conclusion! Conclusion! Conclusion! Conclusion! Conclusion! Conclusion! 
-Conclusion! Conclusion! Conclusion! Conclusion! Conclusion! Conclusion! 
 
 ## How you can contribute
-Contribution! Contribution! Contribution! Contribution! Contribution! 
 Contribution! Contribution! Contribution! Contribution! Contribution! 
 Contribution! Contribution! Contribution! Contribution! Contribution! 
